@@ -1,4 +1,4 @@
-learn-dart
+examples-dart
 ==========
 
-playground for learning dart
+examples for dart
